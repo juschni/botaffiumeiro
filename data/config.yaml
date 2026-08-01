@@ -1,7 +1,7 @@
 # ------------------------------ CONFIGURATION ------------------------------ #
 
 telegram:
-  bot_token: "your_bot_token_here"
+  bot_token: "8886237350:AAEqeQW-DI30K2OCK3qMRobZayJQfwPPTBU"
   # if true, the original message will be deleted and changed by a new message
   # if false, the original message will be replied by the new message
   delete_messages: True
